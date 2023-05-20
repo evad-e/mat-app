@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/app/static/css/main.9bb84e3e.css",
+    "main.js": "/app/static/js/main.43f82b5b.js",
+    "static/js/787.c8e4471e.chunk.js": "/app/static/js/787.c8e4471e.chunk.js",
+    "static/media/about2.JPG": "/app/static/media/about2.6253d3fc34e47a5f2b80.JPG",
+    "static/media/Cana.png": "/app/static/media/Cana.621e63e8a0307e8e3850.png",
+    "static/media/Chess2.png": "/app/static/media/Chess2.b6f1c73c5f7bdd8b7dae.png",
+    "static/media/outreach1.jpg": "/app/static/media/outreach1.dfb77c7cf084a2d16611.jpg",
+    "static/media/logo.png": "/app/static/media/logo.c850ea6551cae9addd68.png",
+    "static/media/landgo.jpg": "/app/static/media/landgo.f484793c6d3fd24330bc.jpg",
+    "static/media/lexmark.jpg": "/app/static/media/lexmark.f566c642e3f7b11e3606.jpg",
+    "static/media/shs.png": "/app/static/media/shs.b01d996b9bae51c0acfe.png",
+    "static/media/dp-900.png": "/app/static/media/dp-900.f714683fa9c3960752ec.png",
+    "static/media/az-900.png": "/app/static/media/az-900.2fb55913a27b82ba64eb.png",
+    "static/media/pl-900.png": "/app/static/media/pl-900.3b179abc27ffc4305ed6.png",
+    "static/media/phildev.jpg": "/app/static/media/phildev.6eae6b6f56ec95eb7e00.jpg",
+    "static/media/sigma.jpg": "/app/static/media/sigma.57cb121fe37e3a72b93c.jpg",
+    "static/media/infoSession.jpg": "/app/static/media/infoSession.b15cec11ab0a6826f623.jpg",
+    "static/media/databricks1.png": "/app/static/media/databricks1.84f35ad961be3f862d4b.png",
+    "static/media/databricks.png": "/app/static/media/databricks.e9d5a01f1ddefcf8dae1.png",
+    "static/media/gdsc.jpg": "/app/static/media/gdsc.f699a2096f84f4e17f0a.jpg",
+    "static/media/phildevBanner.jpg": "/app/static/media/phildevBanner.0630f014df90e5a1bd7e.jpg",
+    "static/media/coreTeamCert.jpg": "/app/static/media/coreTeamCert.ddccdd23bbdfafbde2fd.jpg",
+    "static/media/wcc.jpg": "/app/static/media/wcc.42054d23f6b5bc0f407b.jpg",
+    "static/media/AeroQueue2.png": "/app/static/media/AeroQueue2.90a790395c7c9f074df6.png",
+    "static/media/saribase.png": "/app/static/media/saribase.a7953de9946e8a96f437.png",
+    "static/media/sancarlos.jpg": "/app/static/media/sancarlos.9a9831911fae7b9b5983.jpg",
+    "static/media/lexmark_1.png": "/app/static/media/lexmark_1.47e045fbdd9ffd8e3068.png",
+    "index.html": "/app/index.html",
+    "main.9bb84e3e.css.map": "/app/static/css/main.9bb84e3e.css.map",
+    "main.43f82b5b.js.map": "/app/static/js/main.43f82b5b.js.map",
+    "787.c8e4471e.chunk.js.map": "/app/static/js/787.c8e4471e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bb84e3e.css",
+    "static/js/main.43f82b5b.js"
+  ]
+}
