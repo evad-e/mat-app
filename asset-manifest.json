@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mat-app/static/css/main.9bb84e3e.css",
-    "main.js": "/mat-app/static/js/main.f84f3226.js",
+    "main.css": "/mat-app/static/css/main.8d89b6ba.css",
+    "main.js": "/mat-app/static/js/main.d9eb0e0c.js",
     "static/js/787.c8e4471e.chunk.js": "/mat-app/static/js/787.c8e4471e.chunk.js",
     "static/media/about2.JPG": "/mat-app/static/media/about2.6253d3fc34e47a5f2b80.JPG",
     "static/media/Cana.png": "/mat-app/static/media/Cana.621e63e8a0307e8e3850.png",
@@ -28,12 +28,12 @@
     "static/media/sancarlos.jpg": "/mat-app/static/media/sancarlos.9a9831911fae7b9b5983.jpg",
     "static/media/lexmark_1.png": "/mat-app/static/media/lexmark_1.47e045fbdd9ffd8e3068.png",
     "index.html": "/mat-app/index.html",
-    "main.9bb84e3e.css.map": "/mat-app/static/css/main.9bb84e3e.css.map",
-    "main.f84f3226.js.map": "/mat-app/static/js/main.f84f3226.js.map",
+    "main.8d89b6ba.css.map": "/mat-app/static/css/main.8d89b6ba.css.map",
+    "main.d9eb0e0c.js.map": "/mat-app/static/js/main.d9eb0e0c.js.map",
     "787.c8e4471e.chunk.js.map": "/mat-app/static/js/787.c8e4471e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bb84e3e.css",
-    "static/js/main.f84f3226.js"
+    "static/css/main.8d89b6ba.css",
+    "static/js/main.d9eb0e0c.js"
   ]
 }
